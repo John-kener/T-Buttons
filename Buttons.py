@@ -9,7 +9,6 @@ a ='\033[92m'
 b ='\033[91m'
 c ='\033[0m'
 
-clear
 
 os.system('clear')
 print(a+'''\t
