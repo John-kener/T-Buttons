@@ -5,13 +5,6 @@
 import os
 from time import sleep
 
-r= \e[1;31m 
-g= \e[1;32m 
-y= \e[1;33m 
-b= \e[1;34m 
-p= \e[1;35m                                                       lb= \e[1;36m 
-gr= \e[1;30m 
-wh= \e[1;37m 
 a ='\033[92m'
 b ='\033[91m'
 c ='\033[0m'
